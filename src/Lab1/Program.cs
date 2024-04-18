@@ -1,5 +1,9 @@
-﻿#region Main
+﻿using System.Xml;
 
+
+#region Main
+//Лабораторная 1
+//Задание 1
 //Создаем 2 массива разной длины
 var EvenNumber = new int[6, 8];
 var OddNumber = new int[7, 5];
